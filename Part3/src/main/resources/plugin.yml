@@ -1,0 +1,11 @@
+main: jp.jyn.part3.Main
+name: "${project.artifactId}"
+version: "${project.version}"
+website: "https://jyn.jp/bukkit-plugin-development-3/"
+author: "@HimaJyun"
+
+commands:
+  sample:
+    description: 'Sample command.'
+  example:
+    description: 'Example command.'
