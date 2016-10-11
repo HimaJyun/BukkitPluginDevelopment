@@ -1,0 +1,11 @@
+Message: "string"
+Message2:
+  Message3: "string2"
+
+Value1: 1
+Value2: 1.1
+
+MapKeys:
+  Key1: "A"
+  Key2: "B"
+  Key3: "C"
