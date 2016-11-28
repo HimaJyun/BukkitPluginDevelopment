@@ -1,0 +1,5 @@
+main: jp.jyn.part9.Main
+name: "${project.artifactId}"
+version: "${project.version}"
+website: "https://jyn.jp/bukkit-plugin-development-9/"
+author: "@HimaJyun"
